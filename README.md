@@ -1,2 +1,3 @@
 # Codigos_Curso_Python
- Codigos feitos durante um curso de Python
+Códigos feitos durante o Curso "Python 3 do básico ao avançado - com projetos reais"
+
